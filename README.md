@@ -1,5 +1,5 @@
 # Thekeebist
-A low profile 6x15, 85key Ortholinear keyboard using Elite-C with 2u modifiers, a split space bar and 1.25u system keys. Built with Keeb.io libraries.    WARNING: this is a completely untested design, do not download this with the expectation it will actually work if you print it.
+A low profile 6x16, 85key Ortholinear keyboard using Elite-C with 2u modifiers, a split space bar and 1.25u system keys. Built with Keeb.io libraries.    WARNING: this is a completely untested design, do not download this with the expectation it will actually work if you print it.
 
 There are led footprints, but do not be fooled, there is no built in LED support yet.
 
