@@ -9,4 +9,4 @@ Required materials to finish : 1 Elite-C pro micro, 1 reset switch (probably unn
 
 A plate might be requred for the switches to sit consistently around the screws.
 
-The pcb measures 310x120mm.
+The pcb measures 310x119mm.
