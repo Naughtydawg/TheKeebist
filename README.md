@@ -17,8 +17,6 @@ smt parts placement
 
 lights
 
-clean routes
-
 rotary encoder
 
-an actual controller
+an onboard controller
