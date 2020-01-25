@@ -12,8 +12,13 @@ A plate might be requred for the switches to sit consistently around the screws.
 The pcb measures 310x119mm.
 
 Stuff I want to add:
+
 smt parts placement
+
 lights
+
 clean routes
+
 rotary encoder
+
 an actual controller
