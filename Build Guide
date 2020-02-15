@@ -7,8 +7,8 @@
   Then place all of your switches and solder them in.
   After that, place your pro micro pins and solder them in.  Then solder on your pro micro with the correct pins alligned.  
   On non-LP pro micros, the socket should be on the bottom.  You can place it on the top of the board if you want, but you will lose 
-  access to any reset switch on the pro micro.  In this case, you would have to either short two pads on the bottom of the pcb in order
-  to reset it, or if you loaded the default profile fn +home should reset it.
+  access to any reset switch on the pro micro.  In this case, you would have to short these two pads https://i.imgur.com/K149hpn.jpg
+  on the bottom of the pcb in order to reset it. If you loaded the default profile already fn +home should reset it.
  
  Now you can flash your board and tippity tap away!
 
