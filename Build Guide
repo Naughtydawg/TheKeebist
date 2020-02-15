@@ -2,7 +2,8 @@
   The first step (If you have a board made from the V2Gerber) is to Take the switch you intend use as your P key, and sand the bottom right
   edge of it just enough to fit it over the screw you intend to mount the board with.  
  
-  Once your board is ready, insert all of your diodes with the line on the same side as the square pad, and solder them all into place.
+  Once your board is ready, insert all of your diodes with the line on the same side as the square pad https://i.imgur.com/ywT6EMb.jpg , 
+  and solder them all into place.
   Then place all of your switches and solder them in.
   After that, place your pro micro pins and solder them in.  Then solder on your pro micro with the correct pins alligned.  
   On non-LP pro micros, the socket should be on the bottom.  You can place it on the top of the board if you want, but you will lose 
