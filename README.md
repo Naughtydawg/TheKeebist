@@ -19,4 +19,4 @@ rotary encoder
 
 an onboard controller
 
-You can reach me with questions about the board or for build help here: https://discord.gg/GQEPnQx
+You can reach me with questions about the board or for build help here: https://discord.gg/GQEPnQx There are more pictures of the board posted there as well.
