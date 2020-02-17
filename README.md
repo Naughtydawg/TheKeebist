@@ -19,4 +19,10 @@ rotary encoder
 
 an onboard controller
 
+support for a flipped layout
+
+a full 15x6 grid
+
+support for 5.25u space
+
 You can reach me with questions about the board or for build help here: https://discord.gg/GQEPnQx There are more pictures of the board posted there as well.
