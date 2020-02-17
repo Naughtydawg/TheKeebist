@@ -19,8 +19,6 @@ rotary encoder
 
 an onboard controller
 
-support for a flipped layout
-
 a full 15x6 grid
 
 support for 5.25u space
