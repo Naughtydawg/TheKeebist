@@ -11,10 +11,6 @@ The pcb measures 310x119mm.
 
 Stuff I want to add:
 
-smt parts placement
-
-lights
-
 rotary encoder
 
 an onboard controller
