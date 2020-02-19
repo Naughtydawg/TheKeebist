@@ -1,4 +1,4 @@
-# TheKeebist
+# TheKeebist  KEEBISTLIGHT IS NOT CONFIRMED TO WORK 
 A low profile 6x16, 85key Ortholinear keyboard using Elite-C with 2u modifiers, a split space bar and 1.25u system keys. Built with Keeb.io libraries.  It lives!
 
 There are led footprints, but do not be fooled, there is no built in LED support yet.
