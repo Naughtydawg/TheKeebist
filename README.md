@@ -1,5 +1,5 @@
 # TheKeebist 
-KEEBISTLIGHT IS NOT CONFIRMED TO WORK but at least it has MX compatibility
+
 
 A low profile 6x16, 85key Ortholinear keyboard using Elite-C with 2u modifiers, a split space bar and 1.25u system keys. Built with Keeb.io libraries.  It lives!
 
