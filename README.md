@@ -24,3 +24,5 @@ a full 15x6 grid
 support for 5.25u space
 
 You can reach me with questions about the board or for build help here: https://discord.gg/GQEPnQx
+
+Keycaps: https://www.thingiverse.com/thing:2897245
