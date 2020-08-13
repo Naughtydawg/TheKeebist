@@ -1,7 +1,7 @@
 # TheKeebist 
 
 
-A low profile 6x16, 85key Ortholinear keyboard using Elite-C with 2u modifiers, a split space bar and 1.25u system keys. I want to thank Keeb.io for compiling and creating the majority of the footprints I used in making this, and Ruiqimao for creating such a great guide. It lives!
+The Keebist is a low profile 6x16, 85key Ortholinear keyboard using Elite-C with 2u modifiers, a split space bar and 1.25u system keys. I want to thank Keeb.io for compiling and creating the majority of the footprints I used in making this, and Ruiqimao for creating such a great guide. It lives!
 
 There are led footprints, but do not be fooled, there is no built in LED support yet.
 
